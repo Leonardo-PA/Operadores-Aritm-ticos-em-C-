@@ -1,0 +1,14 @@
+C:\Users\leopd\Desktop\OperadoresAritmetricosC#\bin\Debug\net8.0\OperadoresAritmetricosC#.exe
+C:\Users\leopd\Desktop\OperadoresAritmetricosC#\bin\Debug\net8.0\OperadoresAritmetricosC#.deps.json
+C:\Users\leopd\Desktop\OperadoresAritmetricosC#\bin\Debug\net8.0\OperadoresAritmetricosC#.runtimeconfig.json
+C:\Users\leopd\Desktop\OperadoresAritmetricosC#\bin\Debug\net8.0\OperadoresAritmetricosC#.dll
+C:\Users\leopd\Desktop\OperadoresAritmetricosC#\bin\Debug\net8.0\OperadoresAritmetricosC#.pdb
+C:\Users\leopd\Desktop\OperadoresAritmetricosC#\obj\Debug\net8.0\OperadoresAritmetricosC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leopd\Desktop\OperadoresAritmetricosC#\obj\Debug\net8.0\OperadoresAritmetricosC#.AssemblyInfoInputs.cache
+C:\Users\leopd\Desktop\OperadoresAritmetricosC#\obj\Debug\net8.0\OperadoresAritmetricosC#.AssemblyInfo.cs
+C:\Users\leopd\Desktop\OperadoresAritmetricosC#\obj\Debug\net8.0\OperadoresAritmetricosC#.csproj.CoreCompileInputs.cache
+C:\Users\leopd\Desktop\OperadoresAritmetricosC#\obj\Debug\net8.0\OperadoresAritmetricosC#.dll
+C:\Users\leopd\Desktop\OperadoresAritmetricosC#\obj\Debug\net8.0\refint\OperadoresAritmetricosC#.dll
+C:\Users\leopd\Desktop\OperadoresAritmetricosC#\obj\Debug\net8.0\OperadoresAritmetricosC#.pdb
+C:\Users\leopd\Desktop\OperadoresAritmetricosC#\obj\Debug\net8.0\OperadoresAritmetricosC#.genruntimeconfig.cache
+C:\Users\leopd\Desktop\OperadoresAritmetricosC#\obj\Debug\net8.0\ref\OperadoresAritmetricosC#.dll
